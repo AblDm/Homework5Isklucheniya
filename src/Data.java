@@ -33,6 +33,7 @@ public class Data {
         }
     }
 
+
     private static boolean validate(String s) {
         if (s.length () > 20) {
             return false;
